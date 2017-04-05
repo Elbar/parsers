@@ -1,0 +1,11 @@
+{
+    "name": "exfriend/curl-tutorial",
+    "licence": "MIT",
+    "authors": [
+        {
+            "name": "Vista",
+            "email": "vista-e@mail.ru"
+        }
+    ],
+    "require": {}
+}
